@@ -1,0 +1,12 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "This is the repository contaning all my lab files for my courses done in Coursera.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
