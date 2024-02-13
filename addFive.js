@@ -1,5 +1,8 @@
-function addFive(val){
-    return val + 5;
-}
+// addFive.js
 
-module.exports = addFive;
+function addFive(value) {
+    return value + 5;
+  }
+  
+  module.exports = addFive;
+  

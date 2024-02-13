@@ -1,6 +1,7 @@
-const { default: TestRunner} = require("jest-runner")
-const addFive = require(`./addFive`)
+// addFive.test.js
 
-test('returns the value plus 5',()=>{
-    expect(addFive(1)).toBe(6)
-} )
+const addFive = require('./addFive');
+
+test('returns the value plus 5', () => {
+  expect(addFive(1)).toBe(6);
+});
